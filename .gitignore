@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+resume/*
+!resume/.gitkeep
+non_resume/*
+!non_resume/.gitkeep
